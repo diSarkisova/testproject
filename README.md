@@ -1,6 +1,6 @@
 # Описание проекта
 
-## App.vue (желтыый цвет) - наше приложение vue.
+## App.vue (желтый цвет) - наше приложение vue.
 
 ## Default.vue(красный цвет) - это layout, отдельный компонент, который будет содержать в себе :
 - слева сайдбар
@@ -33,5 +33,4 @@
 
 ## TheIcon (серый цвет) - иконки вынесла в отдельный компонент с опциями размеров
 
-![Image alt](https://github.com/{diSarkisova}/{one}/raw/{master}/{"./src/assets/img/ComponentsInfo.png"}/ComponentsInfo.png)
-
+![Image alt] (src/assets/img/ComponentsInfo.png)
