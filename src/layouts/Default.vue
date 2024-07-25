@@ -4,7 +4,7 @@
       <the-logo></the-logo>
       <the-sidebar-button></the-sidebar-button>
     </div>
-<router-vue></router-vue>
+
   </div>
 </template>
 
