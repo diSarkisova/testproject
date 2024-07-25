@@ -33,4 +33,4 @@
 
 ## TheIcon (серый цвет) - иконки вынесла в отдельный компонент с опциями размеров
 
-![Макет компонентов] (https://github.com/diSarkisova/testproject/blob/main/src/assets/img/ComponentsInfo.png)
+![Макет компонентов](https://github.com/diSarkisova/testproject/blob/main/src/assets/img/ComponentsInfo.png)
